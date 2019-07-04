@@ -1,5 +1,5 @@
 # NOTE:
-This project was built more than 2 years ago.
+This project was built 2 years ago.
 It has few bugs but I thought it might be helpful for someone who is interested in learning MIPS.
 
 # Sudoku-Game
