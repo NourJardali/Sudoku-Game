@@ -12,9 +12,9 @@ https://sweetcode.io/building-first-simple-program-mips-assembly-language/
 
 
 # How to run this project?
-1- If you don't have MARS jar file, you can get it from this repository.
-2- Open the project file in MARS.
-3- Press F3 or Run
+1- If you don't have MARS jar file, you can get it from this repository. <br >
+2- Open the project file in MARS. <br >
+3- Press F3 or Run <br >
 
 
 # Understand Sudoku Puzzle:
@@ -38,4 +38,4 @@ This function checks if the board is complete or not. If yes, it jumps to the ne
 
 # Repeated Validation:
 Validation of a specific cell means checking whether the inserted number exists in the other 8 values in row, column and subsection. So, each time the user inserts a number, I will have to go over 8+8+8 = 24 values to check for duplicates. Considering the fact that I have a 9x9 matrix, validating the entire matrix this way would mean having 9 * 9 * 24 = 1944 tests ... 
-Yeah, that's a bit excessive. I wanted to keep this number in mind, so I can aim towards a more efficient validation method.
+Yeah, that's a bit excessive. I wanted to keep this number in mind, so I can aim towards a more efficient validation method
